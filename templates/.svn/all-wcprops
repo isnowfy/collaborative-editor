@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/doit/!svn/ver/2/1/templates
+END
+preview.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/doit/!svn/ver/12/1/templates/preview.tpl
+END
+pass.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/doit/!svn/ver/18/1/templates/pass.tpl
+END
+header.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/doit/!svn/ver/12/1/templates/header.tpl
+END
+footer.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/doit/!svn/ver/2/1/templates/footer.tpl
+END
+test.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/doit/!svn/ver/18/1/templates/test.tpl
+END

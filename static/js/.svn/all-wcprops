@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/doit/!svn/ver/2/1/static/js
+END
+jquery.js
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/doit/!svn/ver/2/1/static/js/jquery.js
+END
+app.js
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/doit/!svn/ver/42/1/static/js/app.js
+END
+diff_match_patch.js
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/doit/!svn/ver/2/1/static/js/diff_match_patch.js
+END

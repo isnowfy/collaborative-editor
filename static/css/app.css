@@ -1,0 +1,15 @@
+.stack {
+    position: absolute;
+    top: 50px;
+    right: 85px;
+    bottom: 75px;
+    left: 85px;
+    
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    
+    -webkit-box-shadow: 0px 0px 9px rgba(121,126,133, 0.15);
+    -moz-box-shadow: 0px 0px 9px rgba(121,126,133, 0.15);
+    box-shadow: 0px 0px 9px rgba(121,126,133, 0.15);
+}
